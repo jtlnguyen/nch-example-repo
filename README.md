@@ -1,3 +1,3 @@
-# nch-example-repo
+# Conflict in master
 Test
 Second change
