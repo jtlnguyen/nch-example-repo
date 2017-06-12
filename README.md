@@ -1,3 +1,3 @@
-# nch-example-repo
+# Create conflict in my-branch
 Test
 Second change
